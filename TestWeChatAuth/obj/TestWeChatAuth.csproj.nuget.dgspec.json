@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\forme\\source\\repos\\TestWeChatAuth\\TestWeChatAuth\\TestWeChatAuth.csproj": {}
+    "D:\\Work\\Code\\myWebTest\\TestWeChatAuth\\TestWeChatAuth.csproj": {}
   },
   "projects": {
-    "C:\\Users\\forme\\source\\repos\\TestWeChatAuth\\TestWeChatAuth\\TestWeChatAuth.csproj": {
+    "D:\\Work\\Code\\myWebTest\\TestWeChatAuth\\TestWeChatAuth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\forme\\source\\repos\\TestWeChatAuth\\TestWeChatAuth\\TestWeChatAuth.csproj",
+        "projectUniqueName": "D:\\Work\\Code\\myWebTest\\TestWeChatAuth\\TestWeChatAuth.csproj",
         "projectName": "TestWeChatAuth",
-        "projectPath": "C:\\Users\\forme\\source\\repos\\TestWeChatAuth\\TestWeChatAuth\\TestWeChatAuth.csproj",
+        "projectPath": "D:\\Work\\Code\\myWebTest\\TestWeChatAuth\\TestWeChatAuth.csproj",
         "packagesPath": "C:\\Users\\forme\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\forme\\source\\repos\\TestWeChatAuth\\TestWeChatAuth\\obj\\",
+        "outputPath": "D:\\Work\\Code\\myWebTest\\TestWeChatAuth\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\forme\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,12 +54,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.2, 3.1.2]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -68,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

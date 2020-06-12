@@ -1,11 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "UeJ/yBH+LBw5cPGz99JjZFJfAsrTRHq/GBDNXvPEr4OAX6/1TvugTPQq3sSHZI7Vbuw+VOvDoAId7PlGiFVXEg==",
+  "dgSpecHash": "6GxNiFCLI8aAsV4NeRNU7ezbzH9HgmFY8NkPu9QlnvsDEOyXUSW6oWNp3vi1sikA4iKDW368JR9xBssSrbIxYA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\forme\\source\\repos\\TestWeChatAuth\\TestWeChatAuth\\TestWeChatAuth.csproj",
+  "projectFilePath": "D:\\Work\\Code\\myWebTest\\TestWeChatAuth\\TestWeChatAuth.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\forme\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
-    "C:\\Users\\forme\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+    "C:\\Users\\forme\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],
   "logs": []
 }
