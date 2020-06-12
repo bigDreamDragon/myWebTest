@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    @{
+        <span>code </span> @ViewData["code"];
+
+    }
+
+    
+    <form action="http://127.0.0.1:5000/aa/send" id="xxx">
+        phone  <input type="text" name="phone" />
+        number  <input type="text" name="number" />
+        <input type="text" name="code" value="@ViewData["code"]" />
+        <input type="submit" value="Submit" id="sub"/>
+    </form>
+
+
+    <script>
+        $("#sub").click(function () {
+            $("#xxx").ajaxSubmit(function (data) {
+                alert(data);
+            });
+        });
+
+    </script>
+</div>

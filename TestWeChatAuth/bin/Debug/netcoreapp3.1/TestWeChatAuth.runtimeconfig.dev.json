@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\forme\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\forme\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWeChatAuth", "TestWeChatAuth\TestWeChatAuth.csproj", "{B4F15AF3-932C-450F-8142-08893CAA76EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4F15AF3-932C-450F-8142-08893CAA76EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4F15AF3-932C-450F-8142-08893CAA76EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4F15AF3-932C-450F-8142-08893CAA76EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4F15AF3-932C-450F-8142-08893CAA76EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0937B50F-3DD5-4F7D-A4D9-361D6E3F21FA}
+	EndGlobalSection
+EndGlobal
