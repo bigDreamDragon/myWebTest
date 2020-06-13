@@ -22,7 +22,7 @@ namespace TestWeChatAuth
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
-                    webBuilder.UseUrls("http://*:5022");
+                    webBuilder.UseUrls("http://*:5021");
                     webBuilder.UseStartup<Startup>();
                 });
 
