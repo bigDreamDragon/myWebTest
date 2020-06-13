@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs/TestWeChatAuth/DesignTimeBuild/.dtbcache.v2
+/.vs/TestWeChatAuth/v16/.suo
+/TestWeChatAuth/bin
+/TestWeChatAuth/obj
+/TestWeChatAuth/Properties/PublishProfiles/FolderProfile.pubxml
+/TestWeChatAuth/Properties/PublishProfiles/FolderProfile.pubxml.user
+/TestWeChatAuth/TestWeChatAuth.csproj.user
