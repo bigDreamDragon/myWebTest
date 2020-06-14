@@ -31,7 +31,7 @@ namespace TestWeChatAuth.Controllers
             };
             //var url = "http://www.baidu.com";
             var url = "http://127.0.0.1:2595/api/user/wechatLogin";
-            var jsonData = JsonConvert.SerializeObject(model);
+            var jsonData = JsonConvert.SerializeObject (model);
             var httpClient = new HttpClient();
             var httpContent = new StringContent(jsonData);
             httpContent.Headers.ContentType = new System.Net.Http.Headers.MediaTypeHeaderValue("application/json");
