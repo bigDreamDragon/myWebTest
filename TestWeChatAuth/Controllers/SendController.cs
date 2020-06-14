@@ -13,7 +13,7 @@ namespace TestWeChatAuth.Controllers
 {
     [Route("aa")]
     [ApiController]
-    public class SendController : ControllerBase
+    public class SendController :ControllerBase
     {
         private static readonly string token = "9ce75fb_8a64711e_a9f9700";
 
